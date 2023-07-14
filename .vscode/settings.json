@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "signal.h": "c",
+        "limits": "c",
+        "fcntl.h": "c",
+        "stdio.h": "c",
+        "link_layer.h": "c",
+        "application_layer.h": "c",
+        "type_traits": "c",
+        "stdlib.h": "c"
+    }
+}
